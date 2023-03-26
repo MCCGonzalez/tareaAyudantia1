@@ -1,0 +1,10 @@
+Programa que simula los sismos registrados durante 7 días y con 10 registros diarios
+
+Viene integrado un menu y las funciones de:
+
+1)Ingresar los sismos de manera aleatoria en una matriz de tipo double de 7x10
+2)Mostrar el sismo de mayor magnitud
+3)Contar los sismos mayoreso iguales a 5
+4)Mostrar mensaje por pantalla cada vez que se lea un sismo mayor o igual a 7
+5)Mostrar la matriz de sismos
+6)Para terminar el programa
